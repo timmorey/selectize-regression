@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'selectize-integration-regression',
+    modulePrefix: 'selectize-regression',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
